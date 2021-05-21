@@ -1,1 +1,1 @@
-# GR-TEL-for-Financial-Forecasting
+# Graph-Regularized Tensor Ensemble Learning for Financial Forecasting
